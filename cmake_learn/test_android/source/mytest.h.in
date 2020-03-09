@@ -1,0 +1,6 @@
+#ifndef __mytest_h
+#define __mytest_h
+
+void mytest_print_version();
+
+#endif
